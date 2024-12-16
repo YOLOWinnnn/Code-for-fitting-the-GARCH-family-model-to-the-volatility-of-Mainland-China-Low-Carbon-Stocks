@@ -1,0 +1,18 @@
+         result    stderr       stat   p_value
+mu     0.039281  0.019856   1.978296  0.024035
+omega  0.008554  0.003482   2.456922  0.007061
+alpha  0.090186  0.016314   5.528230  0.000000
+beta   0.903408  0.016702  54.088779  0.000000
+
+AIC:	2.584648
+
+
+HQ:	2.598308
+
+
+MSE of one-step variance forecast (period 1 to 1569):6.171088 
+
+
+MSE of one-step variance forecast (period 1570 to 2241):1.820467 
+
+
