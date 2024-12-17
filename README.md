@@ -41,18 +41,14 @@ To use the code for volatility modeling with the GARCH family model, follow thes
 
 Clone this repository to your local machine:
 
-bash
-复制代码
 git clone https://github.com/YOLOWinnnn/Code-for-fitting-the-GARCH-family-model-to-the-volatility-of-Mainland-China-Low-Carbon-Stocks.git
+
 Navigate to the project directory:
 
-bash
-复制代码
 cd Code-for-fitting-the-GARCH-family-model-to-the-volatility-of-Mainland-China-Low-Carbon-Stocks
+
 Run the main script to fit a GARCH model:
 
-bash
-复制代码
 python garch_volatility_modeling.py
 The script will load the data, preprocess it, and fit the appropriate GARCH model to model the volatility. The results will be displayed and saved in the outputs/ folder.
 
@@ -62,6 +58,7 @@ The output includes:
 Volatility forecasts based on the GARCH model.
 Plots showing historical volatility and predicted volatility.
 Model diagnostics and performance evaluation.
+
 Contributing
 Contributions are welcome! If you would like to contribute to this project, please follow these steps:
 
